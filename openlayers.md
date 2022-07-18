@@ -47,14 +47,6 @@ OpenLayers appreciates contributions of all kinds. We especially want to thank o
 
 <br>
 
-[![Pozi logo](https://raw.githubusercontent.com/openlayers/openlayers/main/sponsor-logos/pozi.png)](https://pozi.com/)
-
-> Pozi helps connect communities through spatial thinking.
-> We love Openlayers and it forms a core part of our platform.
-> https://pozi.com/ https://app.pozi.com/
-
-<br>
-
 [![yey'maps logo](https://github.com/openlayers/openlayers/blob/main/sponsor-logos/yeymaps.png?raw=true)](https://www.yeymaps.io/)
 
 > yey'maps is a scalable cloud GIS suite that is developed with the
