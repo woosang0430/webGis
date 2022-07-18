@@ -63,13 +63,6 @@ OpenLayers appreciates contributions of all kinds. We especially want to thank o
 
 <br>
 
-[![GeoSolutions logo](https://github.com/openlayers/openlayers/blob/main/sponsor-logos/geosolutions.png?raw=true)](https://www.geosolutionsgroup.com/)
-
-> Your one-stop-shop for geospatial open source software.
-> https://www.geosolutionsgroup.com/
-
-<br>
-
 [![ela-compil logo](https://github.com/openlayers/openlayers/blob/main/sponsor-logos/ela-compil.png?raw=true)](https://ela.pl/)
 
 > We develop leading Physical Security Information Management (PSIM) software.
